@@ -3,14 +3,10 @@
 }
 
 /* Mobile device */
-@media only screen and (max-width: 480px) {
-
-}
+@media only screen and (max-width: 480px) {}
 
 /* Tablet Screens */
-@media only screen and (min-width: 481px) and (max-width: 768px) {
-
-}
+@media only screen and (min-width: 481px) and (max-width: 768px) {}
 
 /* Laptop/Desktop Screens */
 @media only screen and (max-width: 1920px) {
@@ -19,13 +15,15 @@
     background-color: #0f172a !important;
     height: 100%;
   }
+
   .App {
     display: flex;
-    padding: 10%;
+    padding: 8%;
     /* margin-left: auto;
     margin-right: auto;
     padding-top: 10rem; */
   }
+
   .mainContent {
     width: 50%;
     margin-left: 600px;

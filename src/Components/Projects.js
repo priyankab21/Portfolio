@@ -10,9 +10,16 @@ const Projects = () => {
             <span>09/2018 - 12/2019</span>
           </div>
           <div className="aboutProject">
-            <b className='clientName'>Internal Project</b>
+            <b className='clientName'> <h5>Driver’s License Application — React.js, Node.js, MongoDB</h5> </b>
+            
             <div className="projectDescription">
-              I developed a Driver's License Application using React, Node.js, and MongoDB, which effectively streamlined the online application and management process. This innovative solution significantly improved accessibility and convenience for users by eliminating the need for in-person visits and paperwork, while also ensuring a secure and efficient license management system for authorities.</div>
+              <ul>
+             <li>Developed a scalable web application that digitized the driver's license application process, improving accessibility and reducing processing time.</li>
+             <li>Used React.js to build dynamic, reusable UI components, ensuring a seamless and user-friendly experience across devices.</li>
+             <li>Implemented secure backend functionality with Node.js and MongoDB, following best practices for data management and storage.</li>
+             <li>Integrated JWT-based authentication to safeguard sensitive user data and maintain robust security.</li>
+             <li>Collaborated with team members in an Agile environment to ensure the timely delivery of key features.</li>
+             </ul></div>
             <div>
               <ul className='skillsList'>
                 <li className='skills'>ReactJS</li>
@@ -32,9 +39,17 @@ const Projects = () => {
             <span>01/2020 - 02/2021</span>
           </div>
           <div className="aboutProject">
-            <b className='clientName'>Internal Project</b>
+            <b className='clientName'> <h5>Ride Share App — React.js, Django, PostgreSQL</h5></b>
             <div className="projectDescription">
-              I created an integrated Ride Share application by leveraging React, Django, Flutter, PostgreSQL, and a Rest API. This comprehensive ridesharing platform prioritizes user safety through the implementation of robust identity verification and real-time tracking features. The application is designed for optimal efficiency and offers a seamless experience for users, making a valuable contribution to the ridesharing industry.</div>
+              <ul>
+                <li>Built a feature-rich rideshare platform with React.js for an intuitive and visually appealing user interface.</li>
+                 <li>Leveraged Django to create a robust backend, handling real-time user interactions and data management efficiently.</li> 
+                  <li>Designed and integrated real-time tracking features, allowing users to monitor ride progress and driver locations seamlessly.</li>
+                  <li>Developed a secure identity verification system to enhance trust and safety among users.</li>
+                   <li>Used PostgreSQL for structured and reliable data storage, optimizing database queries for performance.</li>
+                     <li>Worked closely with stakeholders to gather feedback and refine the application based on user needs.</li>
+              </ul>
+              </div>
             <div>
               <ul className='skillsList'>
                 <li className='skills'>ReactJS</li>

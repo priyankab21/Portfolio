@@ -10,7 +10,7 @@ const WorkExperience = () => {
             <span>09/2018 - 02/2021</span>
           </div>
           <div>
-            <b className='companyName'>Software Engineer - Apex Technologies</b>
+            <b className='companyName'> Software Engineer - Apex Technologies</b>
             <ul>
               <li>
               3+ years of solid expertise developing JavaScript, MERN Stack applications with Redux, Flux, Common.JS, Babel+ES6, EXT JS, and Web-Pack for Single Page Application development, as well as e-commerce applications.
